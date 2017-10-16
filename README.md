@@ -43,9 +43,7 @@ ICOs usually have two or more contracts. One token contract and one or more crow
 
 ## Demo
 
-You can try it on [https://wizard.oracles.org](https://wizard.oracles.org) or watch a demo
-
-[![Demo](https://img.youtube.com/vi/Hvs1gICcXGU/0.jpg)](https://www.youtube.com/watch?v=Hvs1gICcXGU)
+You can try it on [https://allenhark.org/lauchpad](https://allenhark.org/lauchpad) 
 
 ## Requirements
 
